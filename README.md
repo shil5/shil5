@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/about.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://aws.amazon.com/what-is/sql/" target="_blank"> <img src="other_images_icons/sql_icon.png" alt="SQL" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="other_images_icons/excel_icon.png" alt="Advanced Excel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shil5&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shil5&layout=donut-vertical&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
