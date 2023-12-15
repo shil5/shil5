@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/shil5/shil5/blob/main/header-pics/header_gif_image_purple.gif)](https://github.com/shil5)
-
+<!--<div align="center">-->
 <!--<img src="https://github.com/shil5/shil5/blob/main/header-pics/header_gif_image_purple.gif" width="800">-->
 
 👋 Hey there! I am Shilpa Soni, a Data Analyst.  A masters graduate in Statistics, I like to tinker with numbers AND computers. I love psychology.
@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--</div>-->
 
 
