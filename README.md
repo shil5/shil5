@@ -4,7 +4,7 @@
 
 <h3 align="left">Positions held:</h3>
 <p>Summer Intern at Reserve Bank of India (RBI), Data Analyst at Rainman Consulting, Data Scientist at GRAAS.</p>
-<p>I like to talk about my projects and post tutorials on Medium Ⓜ and post my insights on Twitter 🐥. Check out my project repositories and share your thoughts.
+<p>I like to talk about my projects and post tutorials on Medium Ⓜ. I post my stream of consciousness thoughts on Twitter 🐥. Check out my project repositories and share your thoughts.
  <!-- <img align="right" alt="Coding" width="400" src="add link here">-->
 
 <h3 align="left">Languages and Tools:</h3>
