@@ -2,7 +2,7 @@
 <!--<div align="center">-->
 <!--<img src="https://github.com/shil5/shil5/blob/main/header-pics/header_gif_image_purple.gif" width="800">-->
 
-👋 Hey there! I am Shilpa Soni, a Data Analyst.  A masters graduate in Statistics, I like to tinker with numbers AND computers. I love psychology.
+👋 Hey there! I am Shilpa Soni, a Data Scientist.  A masters graduate in Statistics, I like to tinker with numbers AND computers. I love psychology.
 
 <h3 align="left">Positions held:</h3>
 <p>Summer Intern at Reserve Bank of India (RBI), Data Analyst at Rainman Consulting, Data Scientist at GRAAS.</p>
