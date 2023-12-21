@@ -2,7 +2,7 @@
 <!--above is the old one-->
 <!--<div align="center">-->
 <!--<img src="https://github.com/shil5/shil5/blob/main/header-pics/header_gif_image_purple.gif" width="800">-->
-[![MasterHead](https://github.com/shil5/shil5/assets/61142233/7ca6a3eb-99fc-43c9-bf9f-7195b64cd2a0)](https://github.com/shil5)
+[![MasterHead](https://github.com/shil5/shil5/assets/61142233/1a5a41dc-2135-4dfe-9192-b985d61e29e1)](https://github.com/shil5)
 
 👋 Hey there! I am Shilpa Soni, a Data Scientist.  A masters graduate in Statistics, I like to tinker with numbers AND computers. I love psychology.
 
